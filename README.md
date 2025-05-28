@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sycloid
+- 👀 I’m interested in [data-parallel](https://en.wikipedia.org/wiki/Data_parallelism) algorithms, [CUDA](https://en.wikipedia.org/wiki/CUDA), [SYCL](https://en.wikipedia.org/wiki/SYCL), [OpenCL](https://en.wikipedia.org/wiki/OpenCL)
+- 🌱 I’m currently learning [multi-precision integral arithmetic](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) algorithms and [C++ 23](https://en.wikipedia.org/wiki/C%2B%2B23)
+- ⚡ Fun fact: salmon, minnow and pike have [cycloid scales](https://en.wikipedia.org/wiki/Fish_scale#Cycloid_scales)
